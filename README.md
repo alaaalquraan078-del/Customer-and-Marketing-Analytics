@@ -1,17 +1,12 @@
-# Customer-and-Marketing-Analytics
-An end-to-end data analytics and predictive engine utilizing Excel, Power BI, and Python to analyze customer behavior and optimize retail sales forecasting.
-# Domain C: Customer & Marketing Analytics
-
-
-
+# Customer & Marketing Analytics (DS458)
 ## Framework for Retail Performance Evaluation and Predictive Modeling
 
-##  Project Overview
+## Project Overview
 This project presents an empirical data analytics framework designed to evaluate retail transaction performance, model customer behavior, and deploy descriptive and predictive analytics pipelines. Utilizing a structured methodology across **Excel, Power BI, and Python**, the study conducts a multi-phase analysis on a statistically significant random sample of **50,000 transaction records** to address market concentration risks and optimize demand forecasting.
 
 ---
 
-##  Methodology & Technical Pipeline
+## Methodology & Technical Pipeline
 
 ### 1. Data Engineering & Preprocessing (Excel)
 * **Data Cleansing:** Standardized textual attributes and product descriptions via `TRIM` and `PROPER` functions to eliminate structural inconsistencies.
@@ -30,7 +25,7 @@ This project presents an empirical data analytics framework designed to evaluate
 
 ---
 
-##  Empirical Findings & Quantitative Insights
+## Empirical Findings & Quantitative Insights
 
 * **Geographic Concentration Risk:** Exploratory Pivot Table analysis confirmed that the **UK market accounts for over 80% of aggregate revenue**, indicating a critical structural vulnerability to localized market shifts.
 * **Financial Performance:** Documented **$1.05M in total sales** against an institutional target baseline of **$1.5M**.
@@ -39,7 +34,7 @@ This project presents an empirical data analytics framework designed to evaluate
 
 ---
 
-##  Strategic Recommendations
+## Strategic Recommendations
 
 1. **Geographic Diversification:** MIT Open-market expansion strategies target emerging high-yield territories (e.g., Saudi Arabia) to reduce dependency metrics within the UK perimeter.
 2. **Customer Segmentation Protocols:** Establish an institutional tiered rewards architecture optimized for the "Priority" user cohort (defined as individual transaction values exceeding $100) to lower customer attrition rates.
@@ -48,16 +43,19 @@ This project presents an empirical data analytics framework designed to evaluate
 
 ---
 
-##  Ethical Governance & Data Privacy
+## Ethical Governance & Data Privacy
 
 * **Anonymization Protocols:** Enforced rigorous data privacy standards by excluding all Personally Identifiable Information (PII) and substituting surrogate keys for customer records.
 * **Statistical Objectivity:** Utilized standardized Z-Score boundaries to preserve data distribution honesty and prevent management skew from statistical outliers.
 * **Algorithmic Accountability:** Integrated deterministic SHAP analysis to ensure machine learning inferences remain interpretable, accountable, and free from algorithmic bias.
 
+---
 
-
-## 📁 Repository Structure
+## Repository Structure
 ```text
-├── BA PROJECT/
-│   └── BA PROJECT REPORT (1).pdf    # The executive project report
-└── README.md
+├── BA Project REPORT.pdf    # The executive project report
+├── EXEL FILE.xlsx           # Standardized transactional dataset
+├── PART 1.pbix              # Relational modeling & initial transformations
+├── PART 2.pbix              # Time-intelligence metrics & analytical reporting
+├── PART 3.pbix              # Predictive visualizations & forecasting layers
+└── README.md                # Institutional documentation
