@@ -48,6 +48,9 @@ This project presents an empirical data analytics framework designed to evaluate
 * **Anonymization Protocols:** Enforced rigorous data privacy standards by excluding all Personally Identifiable Information (PII) and substituting surrogate keys for customer records.
 * **Statistical Objectivity:** Utilized standardized Z-Score boundaries to preserve data distribution honesty and prevent management skew from statistical outliers.
 * **Algorithmic Accountability:** Integrated deterministic SHAP analysis to ensure machine learning inferences remain interpretable, accountable, and free from algorithmic bias.
+---
+## Author
+Ala'a Alquran - Jordan University of Science and Technology
 
 ---
 
@@ -59,7 +62,3 @@ This project presents an empirical data analytics framework designed to evaluate
 ├── PART 2.pbix              # Time-intelligence metrics & analytical reporting
 ├── PART 3.pbix              # Predictive visualizations & forecasting layers
 └── README.md                # Institutional documentation
----
-## Author
-Ala'a Alquran - Jordan University of Science and Technology
-
