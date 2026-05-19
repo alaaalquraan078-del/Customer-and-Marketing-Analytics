@@ -60,6 +60,6 @@ This project presents an empirical data analytics framework designed to evaluate
 ├── PART 3.pbix              # Predictive visualizations & forecasting layers
 └── README.md                # Institutional documentation
 ---
-Author
+## Author
 Ala'a Alquran - Jordan University of Science and Technology
 
