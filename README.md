@@ -59,3 +59,6 @@ This project presents an empirical data analytics framework designed to evaluate
 ├── PART 2.pbix              # Time-intelligence metrics & analytical reporting
 ├── PART 3.pbix              # Predictive visualizations & forecasting layers
 └── README.md                # Institutional documentation
+---
+## Author
+* **Ala'a Alquran** - *Jordan University of Science and Technology*
